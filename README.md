@@ -5,3 +5,7 @@
 3. VPC
 4. IAM Role
 5. S3
+6. SQS
+7. SNS
+8. FIFO
+9. Kinesis Data Firehose
