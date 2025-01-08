@@ -10,4 +10,4 @@
 8. FIFO
 9. Kinesis Data Firehose
 10. AWS CloudFront
-11. AWS Lamdba
+11. AWS Lambda
