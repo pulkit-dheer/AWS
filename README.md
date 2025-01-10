@@ -11,3 +11,4 @@
 9. Kinesis Data Firehose
 10. AWS CloudFront
 11. AWS Lambda
+12. AWS Guardduty
