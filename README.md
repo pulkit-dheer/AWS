@@ -12,3 +12,5 @@
 10. AWS CloudFront
 11. AWS Lambda
 12. AWS Guardduty
+13. AWS Cost Explorer
+14. Dynamodb
