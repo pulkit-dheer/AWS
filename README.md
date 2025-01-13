@@ -14,3 +14,4 @@
 12. AWS Guardduty
 13. AWS Cost Explorer
 14. Dynamodb
+15. AWS cloudTrail
