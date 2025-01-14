@@ -15,3 +15,4 @@
 13. AWS Cost Explorer
 14. Dynamodb
 15. AWS cloudTrail
+16. AWS EBS
