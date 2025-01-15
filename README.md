@@ -16,3 +16,5 @@
 14. Dynamodb
 15. AWS cloudTrail
 16. AWS EBS
+17. AWS EKS
+18. AWS ECS
