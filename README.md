@@ -18,3 +18,4 @@
 16. AWS EBS
 17. AWS EKS
 18. AWS ECS
+19. AWS Fargate
