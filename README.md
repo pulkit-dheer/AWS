@@ -19,3 +19,6 @@
 17. AWS EKS
 18. AWS ECS
 19. AWS Fargate
+20. AWS Storage Gateway
+21. AWS FSx
+22. AWS Glacier
