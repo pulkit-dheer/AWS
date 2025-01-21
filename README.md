@@ -22,3 +22,4 @@
 20. AWS Storage Gateway
 21. AWS FSx
 22. AWS Glacier
+23. AWS Elastic Beanstalk
